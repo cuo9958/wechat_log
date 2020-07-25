@@ -1,0 +1,7 @@
+<view class="share-image-wrap">
+    <!-- <canvas class="share-canvas" type="2d" canvas-id="test_canvas" id="test_canvas" style="background-color:#ccc;"></canvas> -->
+    <button class="btn" type="primary" bindtap="appendString">添加内容</button>
+    <button class="btn" type="primary" bindtap="readStr">读取内容</button>
+    <button class="btn" type="primary" bindtap="get1">读取一个</button>
+    <button class="btn" type="primary" bindtap="clearStr">清空内容</button>
+</view>
